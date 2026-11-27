@@ -1,0 +1,3 @@
+<Files "hosting-config.php">
+    Require all denied
+</Files>
